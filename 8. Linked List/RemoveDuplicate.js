@@ -23,4 +23,4 @@ var deleteDuplicates = function(head) {
     return head;
 };
 
-// LeedCode Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+// LeetCode Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
